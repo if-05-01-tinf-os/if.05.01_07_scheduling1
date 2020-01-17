@@ -25,6 +25,3 @@ Expected run time (msec) | 8 | 5 | 16 | 12 | 55 | 21 | 2 | 34
 How should a scheduler order these processes to minimize average turn around time? What is the minimal average turn around time in the optimal order you found?
 
 In welcher Reihenfolge muss ein Scheduler diese Prozesse anordnen, damit die durchschnittliche turn around Zeit minimiert wird? Was ist die durchschnittliche turn around Zeit in Ihrer optimalen Anordnung?
-
-3. **Round-Robin Scheduler --- Discussion**
-Round-robin schedulers normally maintain a list of all runnable processes, with each process occurring exactly once in the list. What would happen if a process occurred twice in the list?
